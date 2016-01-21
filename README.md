@@ -10,5 +10,5 @@ tools.
 Interested in contributing to the development of Mozilla's Loads project?
 Documentation on Loads and how to get involved can be found at the [Loads Project documentation](https://loads.readthedocs.org/en/0.2).
 
-##### Bugs List: [waffle.io/mozilla-services/push-service](https://waffle.io/mozilla-services/push-service/)
+##### Bugs List: [waffle.io/loads/loads](https://waffle.io/loads/loads/)
 
