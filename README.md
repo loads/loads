@@ -8,7 +8,7 @@ tools.
 ## Contributing to Mozilla Loads
 
 Interested in contributing to the development of Mozilla's Loads project?
-Documentation on Loads and how to get involved can be found at the [Loads Project documentation](https://loads.readthedocs.org/en/0.2).
+Documentation on Loads and how to get involved can be found at the [Loads Project documentation](http://loadsv2.rtfd.org/).
 
 ##### Bugs List: [waffle.io/loads/loads](https://waffle.io/loads/loads/)
 
