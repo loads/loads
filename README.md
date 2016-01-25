@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/loads/loads.png?label=ready&title=Ready)](https://waffle.io/loads/loads)
 # Welcome to the Mozilla Loads Project
 
 Mozilla Loads is a server-side tool designed to help you load test your HTTP
