@@ -12,7 +12,7 @@ Interested in contributing to the development of Mozilla's Loads project?
 Documentation on Loads and how to get involved can be found at the [Loads Project documentation](http://loadsv2.rtfd.org/).
 
 If you have other questions about the project please send some email to Chris
-Hartjes at chartjes@mozila.com
+Hartjes at chartjes@mozilla.com
 
 ##### Bugs List: [waffle.io/loads/loads](https://waffle.io/loads/loads/)
 
