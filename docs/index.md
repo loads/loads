@@ -25,7 +25,16 @@ There are a few repos that can help you get started using the Loads tools
 ## Contributing
 
 Interested in contributing? Documentation can be found at [Read the Docs](http://loadsv2.rtfd.org/).
-If you have any other questions, please contact Chris Hartjes at chartjes@mozilla.com
+
+## People and Places
+
+The people listed below are the globally distributed team at the core of
+managing the Loads v2 project:
+
+* [Chris Hartjes](https://github.com/chartjes) - QA (Toronto, approx UTC-5)
+* [Richard Pappalardo](https://github.com/rpappa) - QA (Mountain View, approx UTC-8)
+
+We meet on a regular bases to triage bugs and plan the project
 
 ## Overview
 
