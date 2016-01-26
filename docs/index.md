@@ -27,3 +27,7 @@ There are a few repos that can help you get started using the Loads tools
 Interested in contributing? Documentation can be found at [Read the Docs](http://loadsv2.rtfd.org/).
 If you have any other questions, please contact Chris Hartjes at chartjes@mozilla.com
 
+## Overview
+
+![Loads v2 overview](https://raw.githubusercontent.com/loads/docs/master/loads.png)
+
