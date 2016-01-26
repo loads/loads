@@ -2,9 +2,8 @@
 # Welcome to the Mozilla Loads Project
 
 Mozilla Loads is a server-side tool designed to help you load test your HTTP
-services, including web sockets. Built using Python it's goal is to give you a
-flexible automated solution that integrates with several popular Python testing
-tools.
+services, including web sockets. Built using Python, it's goal is to give you a
+flexible solution that integrates with several popular Python testing tools.
 
 ## Contributing to Mozilla Loads
 

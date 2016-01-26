@@ -4,8 +4,8 @@
 
 Mozilla Loads is a server-side tool designed to use AWS to help you load test
 your HTTP services, including web sockets. Built using Python, it's goal is
-to give you a flexible automated solution that integrates with several popular
-Python testing tools.
+to give you a flexible solution that integrates with several popular Python 
+testing tools.
 
 ## The Loads Tools
 
@@ -28,13 +28,13 @@ Interested in contributing? Documentation can be found at [Read the Docs](http:/
 
 ## People and Places
 
-The people listed below are the globally distributed team at the core of
-managing the Loads v2 project:
+Contributors to loads include a globally-distributed team.
+Main contacts/leads for the Loads,v2 project:
 
 * [Chris Hartjes](https://github.com/chartjes) - QA (Toronto, approx UTC-5)
-* [Richard Pappalardo](https://github.com/rpappa) - QA (Mountain View, approx UTC-8)
+* [Richard Pappalardo](https://github.com/rpappalax) - QA (Mountain View, approx UTC-8)
 
-We meet on a regular bases to triage bugs and plan the project
+We meet on a regular basis to triage bugs and plan the project
 
 ## Overview
 
