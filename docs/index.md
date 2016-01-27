@@ -21,10 +21,24 @@ There are a few repos that can help you get started using the Loads tools
 * [Travis Container Builder](https://github.com/loads/tc-builder)
 * [Test reference implementation](https://github.com/loads/loads-tester)
 
+## Development Process
 
-## Contributing
+### Issue Management
 
-Interested in contributing? Documentation can be found at [Read the Docs](http://loadsv2.rtfd.org/).
+Most of our work takes place on [GitHub](https://github.com). We use labels
+and milestones in the issues sections for the individual projects that make up
+Loads and then [waffle.io](https://waffle.io) for an overview of
+issues and work-in-progress for the project.
+
+[Active issues for Loads](https://waffle.io/loads/loads)
+
+### Waffle Columns
+
+Issues for the project are placed in one of three columns
+
+* *Backlog* is for issues that have been submitted to the project. They cover all sorts of things from bugs that haven't been triaged yet to feature requests to housekeeping tasks
+* *Ready* is for issues that have been identified as worth working on and may or may not have been assigned to someone to work on
+* *Done* is for issues that have been completed and closed
 
 ## People and Places
 
@@ -33,8 +47,6 @@ managing the Loads v2 project:
 
 * [Chris Hartjes](https://github.com/chartjes) - QA (Toronto, approx UTC-5)
 * [Richard Pappalardo](https://github.com/rpappa) - QA (Mountain View, approx UTC-8)
-
-We meet on a regular bases to triage bugs and plan the project
 
 ## Overview
 
