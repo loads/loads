@@ -26,8 +26,8 @@ There are a few repos that can help you get started using the Loads tools
 ### Issue Management
 
 Most of our work takes place on [GitHub](https://github.com). We use labels
-and milestones in the issues sections for the individual projects that make up
-Loads and then [waffle.io](https://waffle.io) for an overview of
+and milestones in the issues sections for the individual projects
+and then [waffle.io](https://waffle.io) for an overview of
 issues and work-in-progress for the project.
 
 [Active issues for Loads](https://waffle.io/loads/loads)
