@@ -36,9 +36,9 @@ issues and work-in-progress for the project.
 
 Issues for the project are placed in one of three columns
 
-* *Backlog* is for issues that have been submitted to the project. They cover all sorts of things from bugs that haven't been triaged yet to feature requests to housekeeping tasks
-* *Ready* is for issues that have been identified as worth working on and may or may not have been assigned to someone to work on
-* *Done* is for issues that have been completed and closed
+* _Backlog_ is for issues that have been submitted to the project. They cover all sorts of things from bugs that haven't been triaged yet to feature requests to housekeeping tasks
+* _Ready_ is for issues that have been identified as worth working on and may or may not have been assigned to someone to work on
+* _Done_ is for issues that have been completed and closed
 
 ## People and Places
 
