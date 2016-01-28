@@ -13,7 +13,7 @@ The Loads project consists of several different tools:
 
 * [Loads Broker](https://github.com/loads/loads-broker)
 * [Loads web dashboard](https://github.com/loads/loads-web)
-* [Docker images](https://github.com/loads/docker)
+* [Docker](https://www.docker.com) [images](https://github.com/loads/docker)
 
 There are a few repos that can help you get started using the Loads tools
 
@@ -51,4 +51,3 @@ managing the Loads v2 project:
 ## Overview
 
 ![Loads v2 overview](https://raw.githubusercontent.com/loads/docs/master/loads.png)
-
