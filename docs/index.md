@@ -23,6 +23,12 @@ There are a few repos that can help you get started using the Loads tools
 
 ## Development Process
 
+### Code Contributions
+
+This project is accepting code contributions from both inside and outside
+Mozilla. Code will be accepted via pull requests and the project will have a
+strict policy of not allowing developers to merge in their own pull requests.
+
 ### Issue Management
 
 Most of our work takes place on [GitHub](https://github.com). We use labels
@@ -47,6 +53,7 @@ managing the Loads v2 project:
 
 * [Chris Hartjes](https://github.com/chartjes) - QA (Toronto, approx UTC-5)
 * [Richard Pappalardo](https://github.com/rpappa) - QA (Mountain View, approx UTC-8)
+
 
 ## Overview
 
